@@ -5,7 +5,8 @@ in_menu: true
 ---
 ![Chemin-forêt]({% link images/jardin-denfant-balade-en-foret.jpeg %}) 
  
-# Le Collectif ÉCOLES et LIBERTÉS
+# Le Collectif  
+# ÉCOLES et LIBERTÉS
 
 Vise à soutenir et défendre la pédagogie Steiner Waldorf en
 Alsace et plus largement en France.  
